@@ -136,7 +136,7 @@
     padding: 0%;
     width: 10%;
     box-shadow: none;
-    display: block;
+    display:inline-block;
 }
 }
 @media screen and (max-width:720px) {
