@@ -131,6 +131,7 @@
     padding: 0%;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 .main {
     margin: 0%;
@@ -138,16 +139,23 @@
     box-shadow: none;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 }
 @media screen and (max-width:920px) {
     .full {
         margin: 0%;
         padding: 0%;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
     }
     .main {
         margin: 0%;
         padding: 0%;
         box-shadow: none;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
     }
     }
