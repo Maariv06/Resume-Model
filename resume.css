@@ -137,13 +137,13 @@
 }
 .name {
     background-color: rgb(2, 2, 36);
-    color:red;
+    color:white;
     margin-top:opx;
     margin-left: 0px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     width: 400px;
-    position: absolute;
+    position:fixed;
 }
 }
 @media screen and (max-width:920px) {
