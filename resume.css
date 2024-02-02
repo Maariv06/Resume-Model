@@ -131,7 +131,7 @@
     padding: 0%;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 50%;
 }
 .main {
     margin: 0%;
@@ -139,7 +139,7 @@
     box-shadow: none;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 50%;
 }
 }
 @media screen and (max-width:920px) {
