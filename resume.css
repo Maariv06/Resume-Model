@@ -130,6 +130,13 @@
     margin: 0%;
     padding: 0%;
     display: block;
+    box-shadow: none;
+}
+.full {
+    margin: 0%;
+    padding: 0%;
+    display: block;
+    box-shadow: none;
 }
 }
 @media screen and (max-width:920px) {
@@ -137,5 +144,12 @@
         margin: 0%;
         padding: 0%;
         display: block;
+        box-shadow: none;
+    }
+    .full {
+        margin: 0%;
+        padding: 0%;
+        display: block;
+        box-shadow: none;
     }
     }
